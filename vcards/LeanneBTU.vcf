@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 27.2.1//EN
+N:Hume;Leanne;;;
+FN:Bound To You Jewelry
+ORG:Bound To You Jewelry;
+EMAIL;type=INTERNET;type=WORK;type=pref:helloboundtoyou@gmail.com
+TEL;type=CELL;type=VOICE;type=pref:+447402247039
+ADR;type=HOME;type=pref:;;3 Front Street\nWinlaton;Blaydon-on-Tyne;;NE21 4RF;United Kingdom
+X-SOCIALPROFILE;type=instagram;x-user=boundtoyoupermanentjewelry:x-apple:boundtoyoupermanentjewelry
+X-SOCIALPROFILE;type=facebook:https://www.facebook.com/61590695789930
+X-SOCIALPROFILE;type=tiktok:https://www.tiktok.com/@boundtoyou_pj
+item1.URL;type=pref:https://boundtoyoujewelry.com
+item1.X-ABLabel:_$!<HomePage>!$_
+X-ABShowAs:COMPANY
+END:VCARD
